@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+// All-in-one
 void q1(){
 	char x='*';
 	printf("%10c\n",x);
